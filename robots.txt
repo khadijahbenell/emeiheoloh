@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeeyeipiec.greenstone.org.in/sitemap.xml
